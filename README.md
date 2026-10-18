@@ -18,8 +18,6 @@ It was developed as an MBA capstone project in Data Science and Analytics.
 
 The dataset contains 11,760 customer records and 17 original variables. The target variable is `Product_Taken`, representing whether a customer took the product.
 
-The raw dataset is not included in this repository until its source and redistribution permissions have been verified.
-
 ## Methodology
 
 1. Data inspection and exploratory data analysis.
