@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and credentials
+.env
+
+# Raw datasets and academic documents
+data/raw/
+*.xlsx
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
